@@ -1,4 +1,4 @@
-### Hi there 👋
+### ⚡ Fun fact: Ben Franklin is my great (* 7) Uncle.
 
 <!--
 **jmichaliga/jmichaliga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
