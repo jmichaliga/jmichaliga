@@ -1,8 +1,4 @@
-
-<img src="https://github.com/jmichaliga/jmichaliga/raw/master/octocat.png" alt="" data-canonical-src="https://github.com/jmichaliga/jmichaliga/raw/master/octocat.png" width="200" />
-
-### Hello 
- - ⚡ Fun fact: Benjamin Franklin is my great (great x 7) uncle.
+:zap:
 
 <!--
 **jmichaliga/jmichaliga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
