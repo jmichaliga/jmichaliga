@@ -1,3 +1,9 @@
+👋 I'm Justin,
+
+I'm a seasoned software engineer and fractional CTO at [SmartNode](https://www.smartnode.co), a software development and design studio in New York City. I mostly focus on interactive projects with attention to detail and solid user experience practices and iteration. 
+
+Feel free to [reach out](https://www.jmichaliga.com/contact) if you think there would be a project you would like to collaborate on.
+
 :zap: 👾
 
 <!--
